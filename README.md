@@ -151,3 +151,9 @@ Software Engineer • Full-Stack Developer • AI & Backend Enthusiast
     <img src="https://leetcard.jacoblin.cool/Vansh2802?theme=dark&font=Nunito&ext=contest" alt="LeetCode Stats"/>
   </a>
 </p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Vansh2802/Vansh2802/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
