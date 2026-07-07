@@ -143,3 +143,11 @@ Software Engineer • Full-Stack Developer • AI & Backend Enthusiast
 *"Code. Learn. Build. Repeat."*
 
 </p>
+
+## 💻 LeetCode Stats
+
+<p align="center">
+  <a href="https://leetcode.com/u/Vansh2802/">
+    <img src="https://leetcard.jacoblin.cool/Vansh2802?theme=dark&font=Nunito&ext=contest" alt="LeetCode Stats"/>
+  </a>
+</p>
