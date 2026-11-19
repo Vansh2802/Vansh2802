@@ -8,12 +8,12 @@
   </style></defs>
   <rect x=".5" y=".5" width="479" height="209" rx="10" fill="#0d1117" stroke="#30363d"/>
   <g transform="translate(26,38)" fill="#8b949e"><path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z" transform="translate(0,-13)"/></g>
-  <text x="50" y="44" class="ti">Campus Connect</text>
+  <text x="50" y="44" class="ti">HireMatch</text>
   <text x="454" y="44" text-anchor="end" class="ar">↗</text>
   
-  <text x="26" y="92" class="d">A hub for MIT-ADT students to discover events, join</text><text x="26" y="113" class="d">clubs, form study groups and build their profiles.</text>
-  <rect x="26" y="150" width="61" height="22" rx="11" fill="none" stroke="#30363d"/><text x="57" y="165" text-anchor="middle" class="c">nodejs</text><rect x="94.2" y="150" width="68" height="22" rx="11" fill="none" stroke="#30363d"/><text x="128" y="165" text-anchor="middle" class="c">express</text><rect x="169.60000000000002" y="150" width="90" height="22" rx="11" fill="none" stroke="#30363d"/><text x="215" y="165" text-anchor="middle" class="c">javascript</text><rect x="266.6" y="150" width="76" height="22" rx="11" fill="none" stroke="#30363d"/><text x="304" y="165" text-anchor="middle" class="c">html-css</text>
+  <text x="26" y="92" class="d">Explainable resume-to-job matching — extracts</text><text x="26" y="113" class="d">requirements, shows the evidence behind every score and</text><text x="26" y="134" class="d">builds an action plan.</text>
+  <rect x="26" y="150" width="68" height="22" rx="11" fill="none" stroke="#30363d"/><text x="60" y="165" text-anchor="middle" class="c">fastapi</text><rect x="101.4" y="150" width="76" height="22" rx="11" fill="none" stroke="#30363d"/><text x="139" y="165" text-anchor="middle" class="c">postgres</text><rect x="184.0" y="150" width="54" height="22" rx="11" fill="none" stroke="#30363d"/><text x="211" y="165" text-anchor="middle" class="c">react</text><rect x="245.0" y="150" width="90" height="22" rx="11" fill="none" stroke="#30363d"/><text x="290" y="165" text-anchor="middle" class="c">typescript</text><rect x="342.0" y="150" width="90" height="22" rx="11" fill="none" stroke="#30363d"/><text x="387" y="165" text-anchor="middle" class="c">openrouter</text>
   <line x1="0" y1="186" x2="480" y2="186" stroke="#21262d"/>
-  <circle cx="32" cy="198" r="5" fill="#f1e05a"/><text x="43" y="202" class="l" dy="-1">JavaScript</text>
+  <circle cx="32" cy="198" r="5" fill="#3178c6"/><text x="43" y="202" class="l" dy="-1">TypeScript · Python</text>
   <text x="454" y="201" text-anchor="end" class="l" fill="#f0883e" style="fill:#f0883e">github.com/Vansh2802</text>
 </svg>

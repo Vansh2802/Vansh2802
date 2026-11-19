@@ -13,13 +13,12 @@
 
 ## About me
 
-I'm a final-year **B.Tech IT** student who likes building things end to end — from the database schema to the last pixel of the UI.
+Final-year **B.Tech IT** student (graduating 2027) who builds products end to end — mostly backend, with enough frontend to ship.
+I take team projects from idea to a working product, and I'm most at home with **Python, FastAPI, PostgreSQL** and **LLM-powered features**.
 
-- **Now building** — [Sentiora](https://github.com/Vansh2802/Sentiora-Vansh), an AI second brain that remembers what you read, and [HealHive](https://github.com/Vansh2802/HealHive), a mental-wellness platform with AI chat and real-time therapist sessions
-- **Exploring** — Generative AI, RAG, LangChain, FastAPI and backend system design
-- **Practising** — Data Structures & Algorithms on [LeetCode](https://leetcode.com/u/Vansh2802/)
-- **Looking for** — Software Engineering roles (SDE · Backend · Full-Stack · AI Engineer)
-- **Happy to collaborate** on full-stack and AI projects — say hi at [vanshasnani2802@gmail.com](mailto:vanshasnani2802@gmail.com)
+- **Building** — [Sentiora](https://github.com/Vansh2802/Sentiora-Vansh), an AI second brain, and [HireMatch](https://github.com/Vansh2802/HireMatch), explainable resume matching
+- **Learning** — RAG, backend system design and DSA on [LeetCode](https://leetcode.com/u/Vansh2802/)
+- **Available from December 2026** for SDE · Backend · Full-Stack · AI Engineer roles — Pune preferred, open to relocating
 
 <br/>
 
@@ -43,11 +42,11 @@ I'm a final-year **B.Tech IT** student who likes building things end to end — 
 </p>
 <p align="center">
   <a href="https://github.com/Vansh2802/HealHive"><img src="./assets/project-healhive.svg" width="49%" alt="HealHive"/></a>
-  <a href="https://github.com/Vansh2802/AiQuest"><img src="./assets/project-aiquest.svg" width="49%" alt="AI Super Quest"/></a>
+  <a href="https://github.com/Vansh2802/HireMatch"><img src="./assets/project-hirematch.svg" width="49%" alt="HireMatch"/></a>
 </p>
 <p align="center">
+  <a href="https://github.com/Vansh2802/AiQuest"><img src="./assets/project-aiquest.svg" width="49%" alt="AI Super Quest"/></a>
   <a href="https://github.com/Vansh2802/Syllabus-intelligence"><img src="./assets/project-syllabus.svg" width="49%" alt="Syllabus Intelligence"/></a>
-  <a href="https://github.com/Vansh2802/Campus-connect"><img src="./assets/project-campus.svg" width="49%" alt="Campus Connect"/></a>
 </p>
 
 <br/>
@@ -59,13 +58,7 @@ I'm a final-year **B.Tech IT** student who likes building things end to end — 
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vansh2802&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=f0f6fc&text_color=8b949e" alt="Top languages"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Vansh2802&hide_border=true&background=0D1117&ring=F0883E&fire=F0883E&currStreakLabel=F0F6FC&sideLabels=8B949E&currStreakNum=F0F6FC&sideNums=F0F6FC&dates=6E7681&stroke=30363D" alt="GitHub streak"/>
-</p>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vansh2802&hide_border=true&bg_color=0d1117&color=8b949e&line=f0883e&point=f0f6fc&area=true&area_color=f0883e" alt="Contribution graph"/>
-</p>
 
 <p align="center">
   <picture>
