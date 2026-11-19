@@ -1,19 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="210" viewBox="0 0 480 210">
-  <defs><style>
-    .ti{font:600 19px -apple-system,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif;fill:#f0f6fc}
-    .d{font:400 13.5px -apple-system,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif;fill:#8b949e}
-    .c{font:400 11px ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,monospace;fill:#8b949e}
-    .l{font:400 12px -apple-system,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif;fill:#8b949e}
-    .ar{font:400 16px -apple-system,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif;fill:#484f58}
-  </style></defs>
-  <rect x=".5" y=".5" width="479" height="209" rx="10" fill="#0d1117" stroke="#30363d"/>
-  <g transform="translate(26,38)" fill="#8b949e"><path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z" transform="translate(0,-13)"/></g>
-  <text x="50" y="44" class="ti">AI Super Quest</text>
-  <text x="454" y="44" text-anchor="end" class="ar">↗</text>
-  
-  <text x="26" y="92" class="d">Gamified learning platform — Claude-generated lessons,</text><text x="26" y="113" class="d">quizzes and an AI tutor, with XP and levels in a retro</text><text x="26" y="134" class="d">arcade UI.</text>
-  <rect x="26" y="150" width="68" height="22" rx="11" fill="none" stroke="#30363d"/><text x="60" y="165" text-anchor="middle" class="c">fastapi</text><rect x="101.4" y="150" width="54" height="22" rx="11" fill="none" stroke="#30363d"/><text x="128" y="165" text-anchor="middle" class="c">react</text><rect x="162.4" y="150" width="68" height="22" rx="11" fill="none" stroke="#30363d"/><text x="197" y="165" text-anchor="middle" class="c">mongodb</text><rect x="237.8" y="150" width="90" height="22" rx="11" fill="none" stroke="#30363d"/><text x="283" y="165" text-anchor="middle" class="c">claude-api</text><rect x="334.8" y="150" width="40" height="22" rx="11" fill="none" stroke="#30363d"/><text x="355" y="165" text-anchor="middle" class="c">jwt</text>
-  <line x1="0" y1="186" x2="480" y2="186" stroke="#21262d"/>
-  <circle cx="32" cy="198" r="5" fill="#f1e05a"/><text x="43" y="202" class="l" dy="-1">JavaScript · Python</text>
-  <text x="454" y="201" text-anchor="end" class="l" fill="#f0883e" style="fill:#f0883e">github.com/Vansh2802</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="220" viewBox="0 0 480 220">
+<defs><clipPath id="r"><rect width="480" height="220" rx="14"/></clipPath>
+<style>.k{font:600 11px ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,monospace;letter-spacing:1.4px} .ti{font:800 24px -apple-system,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif;fill:#cdd6f4;letter-spacing:-.4px}
+.d{font:400 14px -apple-system,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif;fill:#a6adc8} .c{font:500 11.5px ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,monospace;fill:#cdd6f4} .l{font:400 12px -apple-system,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif;fill:#a6adc8}
+.ar{font:700 18px -apple-system,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif} .f{font:700 11.5px ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,monospace;fill:#11111b} .gh{font:500 12px ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,monospace}</style></defs>
+<g clip-path="url(#r)">
+<rect width="480" height="220" fill="#1e1e2e"/>
+<rect width="480" height="4" fill="#f5c2e7"/>
+<rect y="188" width="480" height="32" fill="#181825"/>
+</g>
+<rect x=".5" y=".5" width="479" height="219" rx="14" fill="none" stroke="#313244"/>
+<text x="28" y="38" class="k" fill="#f5c2e7">GAMIFIED LEARNING</text>
+<text x="28" y="70" class="ti">AI Super Quest</text>
+<text x="452" y="40" text-anchor="end" class="ar" fill="#f5c2e7">↗</text>
+<text x="28" y="104" class="d">Claude-generated lessons, quizzes and an AI tutor —</text><text x="28" y="125" class="d">earn XP and level up in a retro arcade-style UI.</text>
+<rect x="28" y="160" width="70" height="23" rx="6" fill="#313244"/><text x="63" y="175.5" text-anchor="middle" class="c">fastapi</text><rect x="104.69999999999999" y="160" width="56" height="23" rx="6" fill="#313244"/><text x="132" y="175.5" text-anchor="middle" class="c">react</text><rect x="167.2" y="160" width="70" height="23" rx="6" fill="#313244"/><text x="202" y="175.5" text-anchor="middle" class="c">mongodb</text><rect x="243.89999999999998" y="160" width="91" height="23" rx="6" fill="#313244"/><text x="289" y="175.5" text-anchor="middle" class="c">claude api</text><rect x="341.9" y="160" width="41" height="23" rx="6" fill="#313244"/><text x="363" y="175.5" text-anchor="middle" class="c">jwt</text>
+<circle cx="33" cy="203" r="5" fill="#f1e05a"/><text x="43" y="207" class="l">JavaScript</text><circle cx="138.0" cy="203" r="5" fill="#3572A5"/><text x="148.0" y="207" class="l">Python</text>
+<text x="452" y="207" text-anchor="end" class="gh" fill="#f5c2e7">view repo →</text>
 </svg>

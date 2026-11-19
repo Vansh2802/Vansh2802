@@ -1,41 +1,48 @@
 <a href="https://github.com/Vansh2802">
-  <img src="./assets/hero.svg" width="100%" alt="Vansh Asnani — Software Engineer: Full-Stack, Backend, AI" />
+  <img src="./assets/hero.svg" width="100%" alt="Vansh Asnani — Software Engineer building backend and AI-powered products. Available from December 2026." />
 </a>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vansh-asnani/"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=f0883e" alt="LinkedIn"/></a>
-  <a href="mailto:vanshasnani2802@gmail.com"><img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=f0883e" alt="Email"/></a>
-  <a href="https://leetcode.com/u/Vansh2802/"><img src="https://img.shields.io/badge/LeetCode-161b22?style=for-the-badge&logo=leetcode&logoColor=f0883e" alt="LeetCode"/></a>
-  <a href="https://github.com/Vansh2802"><img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=f0883e" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/vansh-asnani/"><img src="https://img.shields.io/badge/linkedin-1e1e2e?style=for-the-badge&logo=linkedin&logoColor=89b4fa&labelColor=1e1e2e" alt="LinkedIn"/></a>
+  <a href="mailto:vanshasnani2802@gmail.com"><img src="https://img.shields.io/badge/email-1e1e2e?style=for-the-badge&logo=gmail&logoColor=f38ba8&labelColor=1e1e2e" alt="Email"/></a>
+  <a href="https://leetcode.com/u/Vansh2802/"><img src="https://img.shields.io/badge/leetcode-1e1e2e?style=for-the-badge&logo=leetcode&logoColor=f9e2af&labelColor=1e1e2e" alt="LeetCode"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Vansh2802&label=views&color=a6e3a1&labelColor=1e1e2e&style=for-the-badge" alt="Profile views"/>
 </p>
 
 <br/>
 
-## About me
+<img src="./assets/h-about.svg" width="100%" alt="About me"/>
 
 Final-year **B.Tech IT** student (graduating 2027) who builds products end to end — mostly backend, with enough frontend to ship.
 I take team projects from idea to a working product, and I'm most at home with **Python, FastAPI, PostgreSQL** and **LLM-powered features**.
 
-- **Building** — [Sentiora](https://github.com/Vansh2802/Sentiora-Vansh), an AI second brain, and [HireMatch](https://github.com/Vansh2802/HireMatch), explainable resume matching
-- **Learning** — RAG, backend system design and DSA on [LeetCode](https://leetcode.com/u/Vansh2802/)
-- **Available from December 2026** for SDE · Backend · Full-Stack · AI Engineer roles — Pune preferred, open to relocating
+- 🛠️ **Building** — [Sentiora](https://github.com/Vansh2802/Sentiora-Vansh), an AI second brain, and [HireMatch](https://github.com/Vansh2802/HireMatch), explainable resume matching
+- 📚 **Learning** — RAG, agents, backend system design and DSA on [LeetCode](https://leetcode.com/u/Vansh2802/)
+- 💼 **Available from December 2026** for SDE · Backend · Full-Stack · AI Engineer roles — Pune preferred, open to relocating
 
 <br/>
 
-## Tech stack
+<img src="./assets/h-stack.svg" width="100%" alt="Tech stack"/>
 
-| | |
-|---:|:---|
-| **Languages** | <img src="https://skillicons.dev/icons?i=python,ts,java,js,html,css" height="36"/> |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react,vite,tailwind,figma" height="36"/> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django" height="36"/> |
-| **Databases** | <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis" height="36"/> |
-| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,idea,maven" height="36"/> |
-| **AI / LLM** | ![LangChain](https://img.shields.io/badge/LangChain-161b22?style=flat-square&logo=langchain&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-161b22?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-161b22?style=flat-square) ![Claude API](https://img.shields.io/badge/Claude_API-161b22?style=flat-square&logo=anthropic&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-161b22?style=flat-square&logo=openai&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-161b22?style=flat-square&logo=streamlit&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-161b22?style=flat-square) |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,ts,js,java,fastapi,django,nodejs,express&theme=dark&perline=8" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,postgres,mongodb,redis,mysql,docker&theme=dark&perline=8" /><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea,maven,figma,linux&theme=dark&perline=8" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-1e1e2e?style=flat-square&logo=langchain&logoColor=a6e3a1" />
+  <img src="https://img.shields.io/badge/RAG-1e1e2e?style=flat-square" />
+  <img src="https://img.shields.io/badge/pgvector-1e1e2e?style=flat-square&logo=postgresql&logoColor=89b4fa" />
+  <img src="https://img.shields.io/badge/ChromaDB-1e1e2e?style=flat-square" />
+  <img src="https://img.shields.io/badge/Claude_API-1e1e2e?style=flat-square&logo=anthropic&logoColor=fab387" />
+  <img src="https://img.shields.io/badge/OpenAI-1e1e2e?style=flat-square&logo=openai&logoColor=cdd6f4" />
+  <img src="https://img.shields.io/badge/MCP-1e1e2e?style=flat-square" />
+  <img src="https://img.shields.io/badge/Streamlit-1e1e2e?style=flat-square&logo=streamlit&logoColor=f38ba8" />
+</p>
 
 <br/>
 
-## Featured projects
+<img src="./assets/h-projects.svg" width="100%" alt="Featured projects"/>
 
 <p align="center">
   <a href="https://github.com/Vansh2802/Sentiora-Vansh"><img src="./assets/project-sentiora.svg" width="98.5%" alt="Sentiora — AI second brain"/></a>
@@ -51,14 +58,15 @@ I take team projects from idea to a working product, and I'm most at home with *
 
 <br/>
 
-## GitHub stats
+<img src="./assets/h-stats.svg" width="100%" alt="GitHub and LeetCode"/>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Vansh2802&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=f0f6fc&icon_color=f0883e&text_color=8b949e&ring_color=f0883e" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vansh2802&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=f0f6fc&text_color=8b949e" alt="Top languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Vansh2802&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=1e1e2e&title_color=fab387&icon_color=a6e3a1&text_color=cdd6f4&ring_color=fab387" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vansh2802&layout=compact&hide_border=true&langs_count=8&bg_color=1e1e2e&title_color=fab387&text_color=cdd6f4" alt="Top languages"/>
 </p>
-
-
+<p align="center">
+  <a href="https://leetcode.com/u/Vansh2802/"><img src="https://leetcard.jacoblin.cool/Vansh2802?theme=dark&font=Inter&ext=heatmap&border=0&radius=12" alt="LeetCode stats"/></a>
+</p>
 
 <p align="center">
   <picture>
@@ -68,20 +76,4 @@ I take team projects from idea to a working product, and I'm most at home with *
   </picture>
 </p>
 
-<br/>
-
-## LeetCode
-
-<p align="center">
-  <a href="https://leetcode.com/u/Vansh2802/">
-    <img src="https://leetcard.jacoblin.cool/Vansh2802?theme=dark&font=Inter&ext=heatmap&border=0&radius=10" alt="LeetCode stats"/>
-  </a>
-</p>
-
-<br/>
-
-<p align="center">
-  <sub><code>code → learn → build → repeat</code></sub>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=Vansh2802&label=profile%20views&color=30363d&style=flat-square" alt="Profile views"/>
-</p>
+<p align="center"><sub><code>❯ code · learn · build · repeat</code></sub></p>

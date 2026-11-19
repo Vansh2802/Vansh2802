@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="48" viewBox="0 0 1000 48">
+<style>.n{font:600 13px ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,monospace} .h{font:700 22px -apple-system,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif;fill:#cdd6f4}</style>
+<text x="2" y="31" class="n" fill="#a6e3a1">03 ──</text>
+<text x="62" y="32" class="h">featured projects</text>
+<line x1="304" y1="25" x2="998" y2="25" stroke="#313244" stroke-width="1.5"/>
+<circle cx="304" cy="25" r="3.5" fill="#a6e3a1"/>
+</svg>
