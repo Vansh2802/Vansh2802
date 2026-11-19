@@ -15,7 +15,7 @@
 
 I'm a final-year **B.Tech IT** student who likes building things end to end — from the database schema to the last pixel of the UI.
 
-- **Now building** — [HealHive](https://github.com/Vansh2802/HealHive), a mental-wellness platform with AI chat and real-time therapist sessions
+- **Now building** — [Sentiora](https://github.com/Vansh2802/Sentiora-Vansh), an AI second brain that remembers what you read, and [HealHive](https://github.com/Vansh2802/HealHive), a mental-wellness platform with AI chat and real-time therapist sessions
 - **Exploring** — Generative AI, RAG, LangChain, FastAPI and backend system design
 - **Practising** — Data Structures & Algorithms on [LeetCode](https://leetcode.com/u/Vansh2802/)
 - **Looking for** — Software Engineering roles (SDE · Backend · Full-Stack · AI Engineer)
@@ -27,10 +27,10 @@ I'm a final-year **B.Tech IT** student who likes building things end to end — 
 
 | | |
 |---:|:---|
-| **Languages** | <img src="https://skillicons.dev/icons?i=python,java,js,html,css" height="36"/> |
+| **Languages** | <img src="https://skillicons.dev/icons?i=python,ts,java,js,html,css" height="36"/> |
 | **Frontend** | <img src="https://skillicons.dev/icons?i=react,vite,tailwind,figma" height="36"/> |
 | **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django" height="36"/> |
-| **Databases** | <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" height="36"/> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis" height="36"/> |
 | **Tools** | <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,idea,maven" height="36"/> |
 | **AI / LLM** | ![LangChain](https://img.shields.io/badge/LangChain-161b22?style=flat-square&logo=langchain&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-161b22?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-161b22?style=flat-square) ![Claude API](https://img.shields.io/badge/Claude_API-161b22?style=flat-square&logo=anthropic&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-161b22?style=flat-square&logo=openai&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-161b22?style=flat-square&logo=streamlit&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-161b22?style=flat-square) |
 
@@ -38,6 +38,9 @@ I'm a final-year **B.Tech IT** student who likes building things end to end — 
 
 ## Featured projects
 
+<p align="center">
+  <a href="https://github.com/Vansh2802/Sentiora-Vansh"><img src="./assets/project-sentiora.svg" width="98.5%" alt="Sentiora — AI second brain"/></a>
+</p>
 <p align="center">
   <a href="https://github.com/Vansh2802/HealHive"><img src="./assets/project-healhive.svg" width="49%" alt="HealHive"/></a>
   <a href="https://github.com/Vansh2802/AiQuest"><img src="./assets/project-aiquest.svg" width="49%" alt="AI Super Quest"/></a>

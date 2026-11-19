@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="210" viewBox="0 0 980 210">
+  <defs><style>
+    .ti{font:600 19px -apple-system,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif;fill:#f0f6fc}
+    .d{font:400 13.5px -apple-system,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif;fill:#8b949e}
+    .c{font:400 11px ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,monospace;fill:#8b949e}
+    .l{font:400 12px -apple-system,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif;fill:#8b949e}
+    .ar{font:400 16px -apple-system,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif;fill:#484f58}
+  </style></defs>
+  <rect x=".5" y=".5" width="979" height="209" rx="10" fill="#0d1117" stroke="#30363d"/>
+  <g transform="translate(26,38)" fill="#8b949e"><path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z" transform="translate(0,-13)"/></g>
+  <text x="50" y="44" class="ti">Sentiora</text>
+  <text x="954" y="44" text-anchor="end" class="ar">↗</text>
+  <rect x="142" y="28" width="74" height="22" rx="11" fill="none" stroke="#f0883e"/><text x="179" y="43" text-anchor="middle" class="c" style="fill:#f0883e">featured</text>
+  <text x="26" y="92" class="d">AI second brain — a Chrome extension captures pages, PDFs and YouTube transcripts, a worker indexes them with</text><text x="26" y="113" class="d">pgvector, and Echo answers questions from your own memories with real citations.</text>
+  <rect x="26" y="150" width="68" height="22" rx="11" fill="none" stroke="#30363d"/><text x="60" y="165" text-anchor="middle" class="c">fastapi</text><rect x="101.4" y="150" width="140" height="22" rx="11" fill="none" stroke="#30363d"/><text x="172" y="165" text-anchor="middle" class="c">postgres+pgvector</text><rect x="248.8" y="150" width="76" height="22" rx="11" fill="none" stroke="#30363d"/><text x="287" y="165" text-anchor="middle" class="c">redis-rq</text><rect x="331.4" y="150" width="54" height="22" rx="11" fill="none" stroke="#30363d"/><text x="358" y="165" text-anchor="middle" class="c">react</text><rect x="392.4" y="150" width="90" height="22" rx="11" fill="none" stroke="#30363d"/><text x="437" y="165" text-anchor="middle" class="c">typescript</text><rect x="489.4" y="150" width="90" height="22" rx="11" fill="none" stroke="#30363d"/><text x="534" y="165" text-anchor="middle" class="c">chrome-mv3</text><rect x="586.4" y="150" width="61" height="22" rx="11" fill="none" stroke="#30363d"/><text x="617" y="165" text-anchor="middle" class="c">openai</text><rect x="654.6" y="150" width="61" height="22" rx="11" fill="none" stroke="#30363d"/><text x="685" y="165" text-anchor="middle" class="c">docker</text>
+  <line x1="0" y1="186" x2="980" y2="186" stroke="#21262d"/>
+  <circle cx="32" cy="198" r="5" fill="#3178c6"/><text x="43" y="202" class="l" dy="-1">TypeScript · Python</text>
+  <text x="954" y="201" text-anchor="end" class="l" fill="#f0883e" style="fill:#f0883e">github.com/Vansh2802</text>
+</svg>
